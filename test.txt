@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is B030-B04F
+
+ Directory of D:\myproject
+
+01/07/2020  11:42 AM    <DIR>          .
+01/07/2020  11:42 AM    <DIR>          ..
+01/07/2020  11:42 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  53,883,199,488 bytes free
